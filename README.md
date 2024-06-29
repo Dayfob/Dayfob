@@ -19,23 +19,23 @@ With a strong foundation in computer science and a keen interest in software eng
 ## Projects
 
 ### Sign Language Detection
-- **Technologies:** Python, PyTorch, YOLO, NumPy, OpenCV, LabelImg
-- **Duration:** Jun 2024 - Jul 2024
+**Technologies:** Python, PyTorch, YOLO, NumPy, OpenCV, LabelImg
+**Duration:** Jun 2024 - Jul 2024
 - Created and trained a custom CNN model using PyTorch and Kaggle dataset.
 - Created and trained a YOLOv5 model using a Kaggle dataset preprocessed using NumPy.
 - Trained a YOLOv5 model using a dataset collected and labeled using LabelImg.
 
 ### DDoS Attacks Detection using ML algorithms
-- **Technologies:** Scikit-learn, Pandas, NumPy
-- **Duration:** Jan 2024 - May 2024
+**Technologies:** Scikit-learn, Pandas, NumPy
+**Duration:** Jan 2024 - May 2024
 - Explored the usefulness of dimensionality reduction techniques for the performance of ML models.
 - Applied dimensionality reduction techniques to simplify the dataset, including examples of DDoS attacks.
 - Trained and validated a number of ML algorithms on improved datasets using Scikit-learn.
 - Reduced the size of models by 27-75% while maintaining 99% accuracy.
 
 ### Machine Learning and Containerization
-- **Technologies:** Python, Tensorflow, Keras, Docker
-- **Duration:** Sep 2023 - Dec 2023
+**Technologies:** Python, Tensorflow, Keras, Docker
+**Duration:** Sep 2023 - Dec 2023
 - Conducted research on the possibilities of using containerization for ML model development/deployment.
 - Developed Tensorflow ML models in a Docker environment, ensuring consistent and reproducible results.
 - Deployed ML models using Docker, facilitating easy scalability and version control.
