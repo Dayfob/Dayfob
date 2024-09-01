@@ -1,81 +1,60 @@
 # Alikhan Semembayev
 
-- **Email:** [a_semembayev@u.pacific.edu](mailto:a_semembayev@u.pacific.edu)
-- **LinkedIn:** [https://www.linkedin.com/in/dayfob](https://www.linkedin.com/in/dayfob)
-- **GitHub:** [https://github.com/Dayfob](https://github.com/Dayfob)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/dayfob)
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Dayfob)
 
 ## About Me
-With a strong foundation in computer science and a keen interest in software engineering, I am committed to staying at the forefront of technological advancements, seeking opportunities where I can apply my skills to solve complex problems and make a meaningful impact.
+
+I am a passionate software engineer with a strong background in AI, machine learning, and full-stack development. I have a Master’s degree in Computer Science and a Bachelor's degree in Engineering and Information Systems, which has equipped me with the technical and problem-solving skills needed to excel in a variety of challenging environments.
 
 ## Technical Skills
-- **Languages:** C/C++/C#, Python, Java, PHP, JavaScript, HTML/CSS, SQL (Postgres, MySQL)
-- **Frameworks:** Scikit-learn, Pandas, NumPy, PyTorch, Laravel, Nuxt.js/Vue.js, JUnit, Bootstrap, OpenCV
-- **Developer Tools:** Git, Docker, PyCharm, IntelliJ IDEA, PHPStorm, Android Studio, VS Code, DBeaver, Postman
 
-## Soft Skills
-- Excellent and creative problem-solving skills
-- Strong written and verbal communication skills
+- **Languages:** Python, Java, C/C++/C#, PHP, JavaScript, HTML/CSS, SQL (Postgres, MySQL)
+- **Frameworks:** PyTorch, Tensorflow, Scikit-learn, Pandas, NumPy, Laravel, Vue.js, JUnit, OpenCV, Flutter
+- **Developer Tools:** Git, Docker, Jupyter, JetBrains IDEs, Android Studio, VS Code, DBeaver, Postman
 
 ## Projects
 
+### Speech Emotion Recognition Application
+- **Technologies:** CNN, Transformers, Feature extraction
+- **Description:** Combined and preprocessed multiple Kaggle datasets, extracted audio features, and created models based on various algorithms, achieving a 20% increase in classification accuracy.
+
 ### Sign Language Detection
-**Technologies:** Python, PyTorch, YOLO, NumPy, OpenCV, LabelImg  
-**Duration:** Jun 2024 - Jul 2024
-- Created and trained a custom CNN model using PyTorch and Kaggle dataset.
-- Created and trained a YOLOv5 model using a Kaggle dataset preprocessed using NumPy.
-- Trained a YOLOv5 model using a dataset collected and labeled using LabelImg.
+- **Technologies:** Python, PyTorch, YOLO, NumPy, OpenCV, LabelImg
+- **Description:** Developed a custom CNN model and trained a YOLOv5 model using datasets, including one that was collected and labeled using LabelImg.
 
 ### DDoS Attacks Detection using ML algorithms
-**Technologies:** Scikit-learn, Pandas, NumPy  
-**Duration:** Jan 2024 - May 2024
-- Explored the usefulness of dimensionality reduction techniques for the performance of ML models.
-- Applied dimensionality reduction techniques to simplify the dataset, including examples of DDoS attacks.
-- Trained and validated a number of ML algorithms on improved datasets using Scikit-learn.
-- Reduced the size of models by 27-75% while maintaining 99% accuracy.
-
-### Machine Learning and Containerization
-**Technologies:** Python, Tensorflow, Keras, Docker  
-**Duration:** Sep 2023 - Dec 2023
-- Conducted research on the possibilities of using containerization for ML model development/deployment.
-- Developed Tensorflow ML models in a Docker environment, ensuring consistent and reproducible results.
-- Deployed ML models using Docker, facilitating easy scalability and version control.
+- **Technologies:** Scikit-learn, Pandas, NumPy
+- **Description:** Applied dimensionality reduction techniques to simplify datasets and trained ML algorithms, reducing model size by up to 75% while maintaining 99% accuracy.
 
 ## Experience
 
-### Software Engineer Intern
-**Personal Remedies**  
-*Mar 2024 ‐ Present, Stockton CA, USA*
-- Developed a cross-platform application using the Flutter framework to attract users to future products.
-- Implemented interaction with the database using the mysql1 package.
-- Made changes in accordance with Google Material Design and Apple Human Interface Guidelines.
-- Managed the full development lifecycle and released the app in the Apple App Store and Google Play Store.
+### Software Engineer, Personal Remedies
+- **Duration:** Mar 2024 - Present | Stockton, CA, USA
+- **Description:** Engineered a cross-platform application integrating AI-based APIs for personalized health recommendations. Managed the entire development lifecycle, ensuring robust interaction between the UI and backend systems.
 
-### Full-stack Software Engineer
-**CBC-Trans**  
-*Mar 2022 ‐ Aug 2023, Schmalkalden, Germany*
-- Achieved a 30% increase in online sales in the first quarter of launch by developing an online store.
-- Designed the admin panel, which led to a 25% increase in user retention rate.
-- Implemented an online booking system for tire fitting, which resulted in a 20% increase in bookings.
-- Satisfied the business requirement by integrating requested functions into the system using the Armtek API.
-- Reduced maintenance time by improving existing projects through refactoring and implementing HTTP tests.
+### Full-stack Software Engineer, CBC-Trans
+- **Duration:** Mar 2022 - Aug 2023 | Schmalkalden, Germany
+- **Description:** Developed an online store leading to a 30% increase in sales, designed an admin panel that boosted user retention by 25%, and implemented an online booking system that increased bookings by 20%.
 
 ## Education
 
 ### University of the Pacific
-*Master of Science in Computer Science, GPA: 4.0/4.0*  
-*Stockton CA, USA*  
-*Aug 2023 - Dec 2024*
-- Theta Tau Professional Engineering Fraternity active member
-- Author of several research papers
+- **Degree:** Master of Science in Computer Science
+- **Duration:** Aug 2023 - Dec 2024 | Stockton, CA, USA
+- **GPA:** 4.0/4.0
 
 ### FH Schmalkalden University of Applied Sciences
-*Bachelor of Science in Engineering and Information Systems, GPA: 3.5/4.0*  
-*Schmalkalden, Germany*  
-*Sep 2021 - Feb 2023*
+- **Degree:** Bachelor of Science in Engineering and Information Systems
+- **Duration:** Sep 2021 - Feb 2023 | Schmalkalden, Germany
 
 ### Kazakh-German University
-*Bachelor of Science in Engineering and Information Systems, GPA: 3.5/4.0*  
-*Almaty, Kazakhstan*  
-*Sep 2018 - Jul 2023*
-- Head of the social work department of the student council
-- Participant in annual student conferences
+- **Degree:** Bachelor of Science in Engineering and Information Systems
+- **Duration:** Sep 2018 - Jul 2023 | Almaty, Kazakhstan
+
+## Contact
+
+- **Email:** [a_semembayev@u.pacific.edu](mailto:a_semembayev@u.pacific.edu)
+- **LinkedIn:** [https://www.linkedin.com/in/dayfob](https://www.linkedin.com/in/dayfob)
+- **GitHub:** [https://github.com/Dayfob](https://github.com/Dayfob)
+
