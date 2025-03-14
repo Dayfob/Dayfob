@@ -1,11 +1,13 @@
 # Alikhan Semembayev
 
+AI Research Engineer | Software Engineer | M.S. in Computer Science
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/dayfob)
 [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Dayfob)
 
 ## About Me
 
-I am a passionate software engineer with a strong background in AI, machine learning, and full-stack development. I have a Master’s degree in Computer Science and a Bachelor's degree in Engineering and Information Systems, which has equipped me with the technical and problem-solving skills needed to excel in a variety of challenging environments.
+A highly motivated and skilled software developer with a Master's degree in Computer Science, bringing hands-on experience in crafting innovative solutions across Health Tech, Commerce, and Fin Tech industries. My expertise lies in developing robust machine learning applications, creating dynamic web applications, and building scalable, high-performance software systems.
 
 ## Technical Skills
 
@@ -28,6 +30,13 @@ I am a passionate software engineer with a strong background in AI, machine lear
 - **Description:** Applied dimensionality reduction techniques to simplify datasets and trained ML algorithms, reducing model size by up to 75% while maintaining 99% accuracy.
 
 ## Experience
+
+### AI Research Engineer, Aion Labs 
+- **Duration:** Feb 2025 - Present | Bay Area, CA, USA
+- **Description:** In my role as an AI Research Engineer at Aion Labs in the San Francisco Bay Area, I developed cutting-edge AI-powered image generation systems using Azure OpenAI and FLUX APIs. I implemented an intelligent prompt enhancement system to analyze and improve generation prompts based on visual analysis. Additionally, I created a user-friendly interface with Gradio for seamless interaction between text prompts and image generation.
+
+### Software Engineer, ATUVERA 
+- **Duration:** Jan 2025 - Present | Bay Area, CA, USA
 
 ### Software Engineer, Personal Remedies
 - **Duration:** Mar 2024 - Present | Stockton, CA, USA
