@@ -1,69 +1,109 @@
-# Alikhan Semembayev
+# 👋 Hi, I’m Alikhan Semembayev
 
-AI Research Engineer | Software Engineer | M.S. in Computer Science
+**AI Research Engineer | Full-Stack Software Engineer | M.S. in Computer Science**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/dayfob)
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Dayfob)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dayfob)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github\&logoColor=white)](https://github.com/Dayfob)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green)](#)
 
-## About Me
+---
 
-A highly motivated and skilled software developer with a Master's degree in Computer Science, bringing hands-on experience in crafting innovative solutions across Health Tech, Commerce, and Fin Tech industries. My expertise lies in developing robust machine learning applications, creating dynamic web applications, and building scalable, high-performance software systems.
+## 🧑‍💻 About Me
 
-## Technical Skills
+I’m an **AI-native full-stack engineer** with a Master’s in Computer Science (4.0 GPA).
+I specialize in building **production-ready AI systems** that merge:
 
-- **Languages:** Python, Java, C/C++/C#, PHP, JavaScript, HTML/CSS, SQL (Postgres, MySQL)
-- **Frameworks:** PyTorch, Tensorflow, Scikit-learn, Pandas, NumPy, Laravel, Vue.js, JUnit, OpenCV, Flutter
-- **Developer Tools:** Git, Docker, Jupyter, JetBrains IDEs, Android Studio, VS Code, DBeaver, Postman
+* 🤖 **Agentic workflows** with LangChain & LangGraph
+* 📚 **Advanced RAG pipelines** with LlamaIndex & hybrid search
+* 🖼 **Multimodal AI** (GPT-4/5, Claude, Ollama, Azure OpenAI, FLUX)
+* ⚡ **Full-stack engineering** with FastAPI, NestJS, Laravel, Vue.js
 
-## Projects
+I thrive on turning prototypes into **scalable, high-performance solutions** that make real-world impact.
 
-### Speech Emotion Recognition Application
-- **Technologies:** CNN, Transformers, Feature extraction
-- **Description:** Combined and preprocessed multiple Kaggle datasets, extracted audio features, and created models based on various algorithms, achieving a 20% increase in classification accuracy.
+---
 
-### Sign Language Detection
-- **Technologies:** Python, PyTorch, YOLO, NumPy, OpenCV, LabelImg
-- **Description:** Developed a custom CNN model and trained a YOLOv5 model using datasets, including one that was collected and labeled using LabelImg.
+## 🔧 Tech Stack
 
-### DDoS Attacks Detection using ML algorithms
-- **Technologies:** Scikit-learn, Pandas, NumPy
-- **Description:** Applied dimensionality reduction techniques to simplify datasets and trained ML algorithms, reducing model size by up to 75% while maintaining 99% accuracy.
+**Languages**: Python · Java · PHP · JavaScript/TypeScript · SQL
+**AI/ML**: LangChain · LangGraph · LlamaIndex · PyTorch · TensorFlow · Scikit-learn
+**Frameworks**: FastAPI · NestJS · Laravel · Vue.js · Flutter · OpenCV
+**Tools**: Git · Docker · Redis · Postgres/MySQL · CI/CD · Jupyter
 
-## Experience
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayfob\&layout=compact\&theme=tokyonight)
 
-### AI Research Engineer, Aion Labs 
-- **Duration:** Feb 2025 - Present | Bay Area, CA, USA
-- **Description:** In my role as an AI Research Engineer at Aion Labs in the San Francisco Bay Area, I developed cutting-edge AI-powered image generation systems using Azure OpenAI and FLUX APIs. I implemented an intelligent prompt enhancement system to analyze and improve generation prompts based on visual analysis. Additionally, I created a user-friendly interface with Gradio for seamless interaction between text prompts and image generation.
+---
 
-### Software Engineer, ATUVERA 
-- **Duration:** Jan 2025 - Present | Bay Area, CA, USA
+## 🚀 Featured Projects
 
-### Software Engineer, Personal Remedies
-- **Duration:** Mar 2024 - Present | Stockton, CA, USA
-- **Description:** Engineered a cross-platform application integrating AI-based APIs for personalized health recommendations. Managed the entire development lifecycle, ensuring robust interaction between the UI and backend systems.
+### 💹 **AI-Powered Investment Recommendation Platform (Aion Labs)**
 
-### Full-stack Software Engineer, CBC-Trans
-- **Duration:** Mar 2022 - Aug 2023 | Schmalkalden, Germany
-- **Description:** Developed an online store leading to a 30% increase in sales, designed an admin panel that boosted user retention by 25%, and implemented an online booking system that increased bookings by 20%.
+*A values-aligned investment platform*
 
-## Education
+* Architected and implemented the **entire backend** with **FastAPI + PostgreSQL**
+* Designed **database schema** and logic for **financial securities evaluation**
+* Built an **agentic AI system** with **LangGraph** to align recommendations with users’ values
+* Oversaw **frontend planning & execution** in **Next.js**
 
-### University of the Pacific
-- **Degree:** Master of Science in Computer Science
-- **Duration:** Aug 2023 - Dec 2024 | Stockton, CA, USA
-- **GPA:** 4.0/4.0
+👉 [Case Study Coming Soon](#)
 
-### FH Schmalkalden University of Applied Sciences
-- **Degree:** Bachelor of Science in Engineering and Information Systems
-- **Duration:** Sep 2021 - Feb 2023 | Schmalkalden, Germany
+---
 
-### Kazakh-German University
-- **Degree:** Bachelor of Science in Engineering and Information Systems
-- **Duration:** Sep 2018 - Jul 2023 | Almaty, Kazakhstan
+### 🤝 **Partner Discovery Assistant (Aion Labs)**
 
-## Contact
+*AI-driven conversational assistant for partner search*
 
-- **Email:** [a_semembayev@u.pacific.edu](mailto:a_semembayev@u.pacific.edu)
-- **LinkedIn:** [https://www.linkedin.com/in/dayfob](https://www.linkedin.com/in/dayfob)
-- **GitHub:** [https://github.com/Dayfob](https://github.com/Dayfob)
+* Designed **database architecture** and implemented **search algorithms**
+* Built conversational AI workflow to **collect criteria** and perform matchmaking
+* Applied **agent-like principles** without LangGraph, ensuring modularity
+* Delivered scalable backend logic for structured discovery
 
+👉 [Demo Video](#)
+
+---
+
+### 🧠 **Medical AI Tutor (Nabu Tutor)**
+
+*Generative AI system for healthcare Q\&A*
+
+* Architected a **stateful AI system** using LangChain, LangGraph, and LlamaIndex
+* Built **semantic search + RAG pipeline** with Azure AI Search
+* Orchestrated complex AI dialogues with **conditional routing**
+
+👉 [Code coming soon](#)
+
+---
+
+### 💊 **Health Tech Recommendation App (Personal Remedies)**
+
+*Award-winning cross-platform health app*
+
+* Integrated **AI-based APIs** for personalized health advice
+* Developed in **Flutter + FastAPI backend**
+* Delivered end-to-end lifecycle: design → backend → deployment
+
+👉 [GitHub Repo](#)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayfob\&show_icons=true\&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dayfob\&theme=tokyonight)
+
+---
+
+## 🎓 Education
+
+🎓 **M.S. Computer Science (4.0 GPA)** — University of the Pacific, USA
+🎓 **B.S. Engineering & Info Systems** — FH Schmalkalden, Germany
+🎓 **B.S. Engineering & Info Systems** — Kazakh-German University, Kazakhstan
+
+---
+
+## 📬 Contact
+
+📧 [a\_semembayev@u.pacific.edu](mailto:a_semembayev@u.pacific.edu)
+💼 [LinkedIn](https://www.linkedin.com/in/dayfob)
+💻 [GitHub](https://github.com/Dayfob)
+
+---
